@@ -5,7 +5,7 @@ description: >-
   probably looking to buy.
 ---
 
-# What is Ether\(ETH\)?
+# What is Ether?
 
 {% hint style="info" %}
 **Where to buy ETH:** [https://ethereum.org/en/get-eth/](https://ethereum.org/en/get-eth/)

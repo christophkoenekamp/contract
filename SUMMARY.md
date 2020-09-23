@@ -13,5 +13,6 @@
 ## Ethereum
 
 * [What is Ethereum?](ethereum/what-is-ethereum.md)
-* [What is Ether\(ETH\)?](ethereum/what-is-ether-eth.md)
+* [What is Ether?](ethereum/what-is-ether-eth.md)
+* [What is Ropsten?](ethereum/what-is-ropsten.md)
 
