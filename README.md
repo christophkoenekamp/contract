@@ -1,8 +1,8 @@
 ---
-description: Frequently Asked Questions
+description: We´re here to help
 ---
 
-# FAQ
+# Frequently Asked Questions
 
 ## 
 

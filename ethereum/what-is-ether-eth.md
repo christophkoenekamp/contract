@@ -8,6 +8,8 @@ description: >-
 # What is Ether?
 
 {% hint style="info" %}
-**Where to buy ETH:** [https://ethereum.org/en/get-eth/](https://ethereum.org/en/get-eth/)
+**Where to buy ETH**
+
+[https://ethereum.org/en/get-eth/](https://ethereum.org/en/get-eth/)
 {% endhint %}
 
