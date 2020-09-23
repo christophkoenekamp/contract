@@ -10,3 +10,8 @@
 
 * [Home](https://nerveglobal.com/)
 
+## Ethereum
+
+* [What is Ethereum?](ethereum/what-is-ethereum.md)
+* [What is Ether\(ETH\)?](ethereum/what-is-ether-eth.md)
+
