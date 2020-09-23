@@ -6,10 +6,6 @@
 
 * [Dapp](getting-started/untitled.md)
 
----
-
-* [Home](https://nerveglobal.com/)
-
 ## Ethereum
 
 * [What is Ethereum?](ethereum/what-is-ethereum.md)
