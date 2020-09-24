@@ -4,7 +4,15 @@
 
 ## Getting Started
 
-* [Dapp](getting-started/untitled.md)
+* [How to install](getting-started/untitled.md)
+* [How to update](getting-started/how-to-update.md)
+* [Getting started](getting-started/getting-started.md)
+* [Create your Wallet](getting-started/create-your-wallet.md)
+* [How to get Ethereum](getting-started/how-to-get-ethereum.md)
+* [Change your Username](getting-started/change-your-username.md)
+* [Creating a Task](getting-started/creating-a-task.md)
+* [Creating a Bet](getting-started/creating-a-bet.md)
+* [Promoting to the Global feed](getting-started/promoting-to-the-global-feed.md)
 
 ## Blockchain
 
