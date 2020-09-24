@@ -6,7 +6,6 @@
 
 * [How to install](getting-started/untitled.md)
 * [How to update](getting-started/how-to-update.md)
-* [Getting started](getting-started/getting-started.md)
 * [Create your Wallet](getting-started/create-your-wallet.md)
 * [How to get Ethereum](getting-started/how-to-get-ethereum.md)
 * [Change your Username](getting-started/change-your-username.md)
