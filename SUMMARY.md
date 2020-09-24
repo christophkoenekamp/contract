@@ -14,10 +14,6 @@
 * [Creating a Bet](getting-started/creating-a-bet.md)
 * [Promoting to the Global feed](getting-started/promoting-to-the-global-feed.md)
 
-## Blockchain
-
-* [Untitled](blockchain/untitled.md)
-
 ## Ethereum
 
 * [What is Ethereum?](ethereum/what-is-ethereum.md)
