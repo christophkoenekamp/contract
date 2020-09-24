@@ -15,4 +15,5 @@
 * [What is Ethereum?](ethereum/what-is-ethereum.md)
 * [What is Ether?](ethereum/what-is-ether-eth.md)
 * [What is Ropsten?](ethereum/what-is-ropsten.md)
+* [What is a Wallet?](ethereum/what-is-a-wallet.md)
 
