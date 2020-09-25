@@ -6,13 +6,13 @@
 
 * [How to install](getting-started/untitled.md)
 * [How to update](getting-started/how-to-update.md)
-* [Language](getting-started/language.md)
+* [Choose your Language](getting-started/language.md)
 * [Create your Wallet](getting-started/create-your-wallet.md)
 * [How to get Ethereum](getting-started/how-to-get-ethereum.md)
-* [Change your Username](getting-started/change-your-username.md)
+* [Create your Profile](getting-started/change-your-username.md)
 * [Creating a Task](getting-started/creating-a-task.md)
 * [Creating a Bet](getting-started/creating-a-bet.md)
-* [Promoting to the Global feed](getting-started/promoting-to-the-global-feed.md)
+* [Promoting to the Global Feed](getting-started/promoting-to-the-global-feed.md)
 
 ## Ethereum
 
