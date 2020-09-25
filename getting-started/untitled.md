@@ -8,9 +8,9 @@ description: >-
 
 ## Get the latest app version from ****
 
-**Google Play Store**
+\*\*\*\*[**Google Play Store**](https://play.google.com/store/apps/details?id=com.academy.nerve)\*\*\*\*
 
-**Apple App Store**
+\*\*\*\*[**Apple App Store**](https://apps.apple.com/us/app/nerve-global/id1500517863)\*\*\*\*
 
 \*\*\*\*[**GitHub Desktop Application**](https://github.com/NERVEGLOBAL/NERVE_app/releases)\*\*\*\*
 
